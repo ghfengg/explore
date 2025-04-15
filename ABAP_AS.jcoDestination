@@ -1,0 +1,8 @@
+#SAP destination configuration
+#Wed Dec 11 11:44:29 CST 2024
+jco.client.lang=ZH
+jco.client.passwd=123456
+jco.client.sysnr=00
+jco.client.client=800
+jco.client.user=liaoji
+jco.client.ashost=172.16.5.134

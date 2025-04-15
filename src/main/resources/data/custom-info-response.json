@@ -1,0 +1,185 @@
+{
+  "status": "SUCCESS",
+  "data":
+  {
+    "sourceObjectType": "string",
+    "sourceObjectId": "string",
+    "customerName": "MyCustomer",
+    "customerNameAlias": "Customer",
+    "territoryCode": "string",
+    "legalRepresentative": "string",
+    "operationPeriodFrom": "2010-08-09",
+    "operationPeriodTo": "2010-12-08",
+    "registeredCapital": "string",
+    "currencyCode": "string",
+    "taxpayerId": "string",
+    "internalCustomerFlag": "string",
+    "sicCode": "string",
+    "website": "string",
+    "relatedUnitCode": "string",
+    "customerBasicInfoCode": "string",
+    "customerBasicInfoStatus": "string",
+    "createdBy": "0",
+    "creationDate": "2023-02-13 10:23:28",
+    "lastUpdateDate": "2023-02-13 10:23:28",
+    "customerAddressList":
+    [
+      {
+        "sourceObjectType": "string",
+        "sourceObjectId": "string",
+        "customerAddressStatus": "string",
+        "registrationAddressFlag": "string",
+        "customerAddressRemark": "string",
+        "address":
+        {
+          "sourceObjectType": "string",
+          "sourceObjectId": "string",
+          "territoryCode": "string",
+          "provinceCode": "string",
+          "cityCode": "string",
+          "countyCode": "string",
+          "streetCode": "string",
+          "postalCode": "string",
+          "addressDetail": "string",
+          "telephoneNumber1": "string",
+          "telephoneNumber2": "string",
+          "telephoneNumber3": "string",
+          "faxNumber": "string",
+          "emailAddress": "string",
+          "registrationAddressFlag": "string"
+        },
+        "customerAddressId": "string",
+        "addressId": "string",
+        "createdBy": "0",
+        "creationDate": "2023-02-13 10:23:28",
+        "lastUpdateDate": "2023-02-13 10:23:28",
+        "lastUpdateTraceId": "string"
+      }
+    ],
+    "customerIdentityList":
+    [
+      {
+        "sourceObjectType": "string",
+        "sourceObjectId": "string",
+        "identityType": "string",
+        "identitySource": "string",
+        "identityNumber": "string",
+        "attachmentId": "string",
+        "identityId": "string",
+        "createdBy": "0",
+        "creationDate": "2023-02-13 10:23:28",
+        "lastUpdateDate": "2023-02-13 10:23:28",
+        "lastUpdateTraceId": "string"
+      }
+    ],
+    "customerTaxQualificationList":
+    [
+      {
+        "sourceObjectType": "string",
+        "sourceObjectId": "string",
+        "taxQualificationCode": "string",
+        "taxQualificationType": "string",
+        "taxQualsDescription": "string",
+        "effectiveDate": "2023-10-25",
+        "disableDate": "2023-10-25",
+        "territoryCode": "string",
+        "qualificationId": "string",
+        "createdBy": "0",
+        "creationDate": "2023-02-13",
+        "lastUpdateDate": "2023-02-13",
+        "lastUpdateTraceId": "string"
+      }
+    ],
+    "customerTaxRegistrationList":
+    [
+      {
+        "sourceObjectType": "string",
+        "sourceObjectId": "string",
+        "taxRegistrationNumber": "string",
+        "taxCategory": "string",
+        "taxRegimeCode": "string",
+        "effectiveDate": "2023-10-23",
+        "disableDate": "2023-10-25",
+        "address":
+        {
+          "sourceObjectType": "string",
+          "sourceObjectId": "string",
+          "territoryCode": "string",
+          "provinceCode": "string",
+          "cityCode": "string",
+          "countyCode": "string",
+          "streetCode": "string",
+          "postalCode": "string",
+          "addressDetail": "string",
+          "telephoneNumber1": "string",
+          "telephoneNumber2": "string",
+          "telephoneNumber3": "string",
+          "faxNumber": "string",
+          "emailAddress": "string",
+          "registrationAddressFlag": "string"
+        },
+        "addressId": "string",
+        "taxRegistrationId": "string",
+        "createdBy": "0",
+        "creationDate": "2023-02-13 10:23:28",
+        "lastUpdateDate": "2023-02-13 10:23:28",
+        "lastUpdateTraceId": "string"
+      }
+    ],
+    "customerBankAccountList":
+    [
+      {
+        "sourceObjectType": "string",
+        "sourceObjectId": "string",
+        "bankAccountType": "string",
+        "bankId": "string",
+        "branchId": "string",
+        "bankAccountNumber": "string",
+        "bankAccountName": "string",
+        "iban": "string",
+        "currencyCode": "string",
+        "bankAccountRemark": "string",
+        "billingAccountFlag": "string",
+        "bankAccountNameAlias": "string",
+        "bankAccountNameAlt": "string",
+        "territoryCode": "string",
+        "bankHostConnectFlag": "string"
+      }
+    ],
+    "relatedCustomerList":
+    [
+      {
+        "sourceObjectType": "string",
+        "sourceObjectId": "string",
+        "relationshipType": "string",
+        "relatedCustomerCode": "string",
+        "relatedCustomerDefaultFlag": "string",
+        "relatedCustomerId": "string",
+        "createdBy": "0",
+        "creationDate": "2023-02-13 10:23:28",
+        "lastUpdateDate": "2023-02-13 10:23:28"
+      }
+    ],
+    "customerMgmtInfo":
+    {
+      "sourceObjectType": "string",
+      "sourceObjectId": "string",
+      "customerMgmtDimension": "string",
+      "customerStatus": "string",
+      "customerCode": "string",
+      "createdBy": "0",
+      "creationDate": "2023-02-13",
+      "lastUpdateDate": "2023-02-13",
+      "lastUpdateTraceId": "string"
+    },
+    "lastUpdateTraceId": "string"
+  },
+  "errors":
+  [
+    {
+      "errorCode": "0",
+      "errorMsg": "",
+      "sourceId": "来源ID"
+    }
+  ]
+}
